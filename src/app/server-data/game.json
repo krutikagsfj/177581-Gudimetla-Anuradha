@@ -1,0 +1,35 @@
+
+{
+    "game":[
+        {
+        "game_no":1,
+        "game_name":"Shooting",
+        "cost":105,
+        "option":"PlayNow"
+        },
+        {
+            "game_no":2,
+        "game_name":"Angry Birds",
+        "cost":95,
+        "option":"PlayNow"
+        },
+        {
+            "game_no":3,
+        "game_name":"Temple Run",
+        "cost":200,
+        "option":"PlayNow"
+        },
+        {
+            "game_no":4,
+        "game_name":"Bike Race",
+        "cost":90,
+        "option":"PlayNow"
+        },
+        {
+            "game_no":5,
+        "game_name":"Air Contro;l",
+        "cost":800,
+        "option":"PlayNow"
+        }
+    ]
+}
